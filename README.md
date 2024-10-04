@@ -1,6 +1,6 @@
 # Resume Matcher Using BERT and SBERT Models
 
-![OUTPUT](https://github.com/user-attachments/assets/eec3dd73-19aa-4f79-b0ce-2691ab779c6a)
+![IMG_202410050218160](https://github.com/user-attachments/assets/702242b3-6700-4b4e-b724-263d583186ee)
 
 
 ## Project Overview
